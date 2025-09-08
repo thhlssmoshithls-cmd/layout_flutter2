@@ -8,4 +8,5 @@ Langkah - langkah praltikum :
 7. Pada bagian teks Padding: memberi jarak di sekeliling teks. Text: menampilkan deskripsi pantai softWrap: true: teks otomatis pindah baris kalau terlalu panjang.
 8. Pada tampilan Utama Scaffold: kerangka utama halaman (ada AppBar dan body). AppBar: menampilkan judul aplikasi. ListView: agar halaman bisa scroll ke bawah. Isi ListView:Gambar pantai (Image.asset). Bagian Judul (titleSection). Bagian Tombol (buttonSection). Bagian Teks (textSection).
 
+ <img width="1366" height="768" alt="hasil pantai" src="https://github.com/user-attachments/assets/4545627f-72a9-4399-ba8a-434c91b169de" />
  
